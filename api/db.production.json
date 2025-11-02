@@ -1,0 +1,37 @@
+{
+  "categorias": [
+    {
+      "id": "1",
+      "nome": "Restaurantes",
+      "descricao": "Lugares para comer"
+    },
+    {
+      "nome": "Shoppings",
+      "descricao": "Lugares para fazer compras e passear",
+      "id": "2"
+    },
+    {
+      "id": "5ed7",
+      "nome": "Praias",
+      "descricao": "Lugares para tomar banho"
+    }
+  ],
+  "lugares": [
+    {
+      "id": "571b",
+      "nome": "Kitanda",
+      "categoria": "Restaurantes",
+      "localizacao": "Teresina",
+      "urlFoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZXGwmJmhl8b1THm2yUG-rmmioPvphawHe-A&s",
+      "avaliacao": "3"
+    },
+    {
+      "id": "77e7",
+      "nome": "Praia do Arrombado",
+      "categoria": "Praias",
+      "localizacao": "Luís Correia",
+      "urlFoto": "https://media-cdn.tripadvisor.com/media/photo-s/24/f2/dc/6e/ambiente-aconchegante.jpg",
+      "avaliacao": "3"
+    }
+  ]
+}
