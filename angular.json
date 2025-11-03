@@ -121,6 +121,13 @@
             ],
             "scripts": []
           }
+        },
+        "deploy": {
+          "builder": "angular-cli-ghpages:deploy",
+          "options": {
+            "baseHref": "/passeio-app",
+            "dir": "dist/passeio-app/browser"
+          }
         }
       }
     }
